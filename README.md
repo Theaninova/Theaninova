@@ -4,7 +4,7 @@ I also contribute to [BlockShot](https://github.com/orgs/BlockShot-Network/)
 
 ![wulk's github stats](https://github-readme-stats.vercel.app/api?username=wulkanat&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wulkanat&layout=compact&langs_count=30&hide=CMake,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wulkanat&layout=compact&langs_count=30&hide=CMake,Makefile,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 Right now I feel most at home in Kotlin, TypeScript and C. I also write a lot of shaders, most in a node editor but I also use GLSL from time to time.
 

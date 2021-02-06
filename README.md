@@ -35,6 +35,9 @@ Right now I feel most at home in Kotlin, TypeScript and C. I also write a lot of
   <a href=https://www.twitch.tv/asakesto>
     <img src="https://cdn.discordapp.com/attachments/705131849659318353/736982611049578586/out.gif" width="72"/>
   </a>
+  <a href=https://www.youtube.com/channel/UCJPePsEEmgnK7oGm0I91T3A>
+    <img src="r3dout.gif" width="72"/>
+  </a>
   <a href=https://www.behance.net/gallery/101111781/Titan-Squad>
     <img src="https://cdn.discordapp.com/attachments/351728150280929290/730526801167777852/out.gif" width="72"/>
   </a>

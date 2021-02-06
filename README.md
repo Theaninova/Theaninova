@@ -24,7 +24,7 @@ Right now I feel most at home in Kotlin, TypeScript and C. I also write a lot of
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7f27ce101112721.5f177f5cd20d9.gif" width="72"/>
   </a>
   <a href=https://www.behance.net/gallery/101109175/SN1054-Animation>
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/61b286101109175.5f176a3c6d453.gif" width="72"/>
+    <img src="sn1054-small.gif" width="72"/>
   </a>
   <a href=https://www.behance.net/gallery/101112129/UNC1>
     <img src="https://cdn.discordapp.com/attachments/351728150280929290/700107857953030194/out.gif" width="72"/>

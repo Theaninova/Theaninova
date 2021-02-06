@@ -12,7 +12,7 @@ Right now I feel most at home in Kotlin, TypeScript and C. I also write a lot of
 
 <p align="left">
   <a href=https://www.behance.net/gallery/112950107/Kiarotu-Animation-V2>
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7eded9112950107.601de6853739e.gif" width="72"/>
+    <img src="kiarotu.gif" width="72"/>
   </a>
   <a href=https://www.behance.net/gallery/105698161/5Mans-Star-Wars-Squadrons-Esport>
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a391c1105698161.5f7ec65c401b0.gif" width="72"/>

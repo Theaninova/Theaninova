@@ -53,6 +53,9 @@ Right now I feel most at home in Kotlin, TypeScript and C. I also write a lot of
   <a href=https://discord.gg/hGTxuvm32r>
     <img src="ng.gif" width="72"/>
   </a>
+  <a href=https://aiming.pro>
+    <img src="ranks_ap.gif" width="72"/>
+  </a>
   <!--<a href=https://www.behance.net/gallery/101111105/Glitch-Doodle>
     <img src="https://cdn.discordapp.com/attachments/245189074988695554/718224724391624724/out.gif" width="72"/>
   </a>

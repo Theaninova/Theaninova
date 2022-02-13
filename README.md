@@ -2,7 +2,7 @@ I currently work at the [OpenStapps Project](https://gitlab.com/openstapps)!
 
 I also contribute to [BlockShot](https://github.com/orgs/BlockShot-Network/)
 
-![wulk's github stats](https://github-readme-stats.vercel.app/api?username=Theaninova&count_private=true)
+![Thea's github stats](https://github-readme-stats.vercel.app/api?username=Theaninova&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theaninova&layout=compact&langs_count=30&hide=CMake,Makefile,HTML)](https://github.com/anuraghazra/github-readme-stats)
 

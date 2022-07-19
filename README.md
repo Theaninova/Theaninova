@@ -11,6 +11,9 @@ Right now I feel most at home in Kotlin, TypeScript and C. I also write a lot of
 [I also do a little motion graphics](https://www.behance.net/kiarotu), ~95% in Blender Shader Graphs!
 
 <p align="left">
+  <a>
+    <img src="belle.gif" width="72"/>
+  </a>
   <a href=https://www.behance.net/gallery/123149047/AKA-ART-Logo-Animation>
     <img src="v2.webp" width="72"/>
   </a>

@@ -4,9 +4,9 @@ I currently work at the [OpenStapps Project](https://gitlab.com/openstapps)!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theaninova&layout=compact&langs_count=30&hide=CMake,Makefile,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
-Right now I feel most at home in TypeScript, Rust and CSS and HTML.
+Right now I feel most at home in TypeScript, Rust, CSS and HTML, as well as Nix for setting up my system.
 
-[I also do a little motion graphics](https://www.behance.net/kiarotu), ~95% in Blender Shader Graphs!
+[I also do a some graphics](https://www.behance.net/kiarotu), ~95% in Blender Shader Graphs!
 
 <p align="left">
   <a>
@@ -50,5 +50,5 @@ Right now I feel most at home in TypeScript, Rust and CSS and HTML.
   </a>
   <a href=https://www.behance.net/gallery/105437635/Techno-Union-Animated-Logo>
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f244a1105437635.5f7929d8d1f2e.gif" width="72"/>
-  </a>-->
+  </a>
 </p>

@@ -1,4 +1,3 @@
-I currently work at the [OpenStapps Project](https://gitlab.com/openstapps)!
 
 ![Thea's github stats](https://github-readme-stats.vercel.app/api?username=Theaninova&count_private=true)
 
